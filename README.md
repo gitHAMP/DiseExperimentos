@@ -1,6 +1,7 @@
 # <a name="content-id"></a> Contenido   
 1. [TestLink](#testlink-id)  
     1.1 [Instalación](#inst-id)      
+    1.2 [Creando Proyecto de Prueba](#prop-id)
 
     
 # <a name="testlink-id"></a>1. TestLink
@@ -39,4 +40,4 @@ Para instalar TestLink, revise el siguiente video para ver los pasos [Instalaci�
 
 La descarga de TestLink lo puede realizar de [Descarga](https://sourceforge.net/projects/testlink/). 
 
-## <a name="testlink-id"></a>1.3 Instalación
+## <a name="prop-id"></a>1.2 Creando Proyecto de Prueba
