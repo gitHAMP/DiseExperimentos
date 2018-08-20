@@ -200,7 +200,30 @@ Para que se ejecute el caso de prueba, debe asignarse al plan de prueba. Aquí v
 
 #### [Ir a Contenido](#content-id)
 
-## <a name="useroles-id"></a>1.8 Crear usuarios y asignar roles
+## <a name="useroles-id"></a>1.8 Crear usuarios y asignar roles     
+Testlink proporciona funciones de administración y autorización de usuario.
 
+  ![Getting Started](./images/26.png)
+
+* Desde la página de inicio de Testlink, haga clic en el icono de `Users/Roles` en la barra de navegación.
+
+  ![Getting Started](./images/27.png)
+
+* Haz clic en el botón `Create`.
+
+  ![Getting Started](./images/28.png)
+
+* Complete todos los detalles de los usuarios y haga clic en el botón `Save` .
+
+  ![Getting Started](./images/29.png)
+
+* Asignación del rol del proyecto de prueba al usuario.
+
+    * Haga clic en la pestaña `Assign Test Project roles`.
+    * Elija el nombre del proyecto
+    * Seleccione la función de usuario del menú desplegable y da clic en el botón  `Do`
+    * Luego da clic en el botón  `Update`.
+
+  ![Getting Started](./images/30.png)
 
 #### [Ir a Contenido](#content-id)
