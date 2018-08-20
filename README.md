@@ -13,12 +13,6 @@
 # <a name="testlink-id"></a>1. TestLink
 Testlink es una herramienta gratuita que nos permite gestionar y crear casos de pruebas, estos se organizan en planes de prueba. Los planes de prueba con los casos de prueba asignados, permite a los miembros del equipo ejecutar test case y registrar los resultados dinámicamente, también podemos generar informes eligiendo los parámetros, esta herramienta hace posible que se mantenga una trazabilidad con los requerimientos, así como priorizar y asignar tareas.
 
-   ![Getting Started](./images/24.png)
-
-Testlink proyectos agiles
-
-   ![Getting Started](./images/25.png) 
-
 TestLink es una herramienta que nos permite:
 
 * La creación de diversos roles con distintos permisos y atributos para los miembros de un equipo de desarrollo
@@ -34,13 +28,18 @@ TestLink es una herramienta que nos permite:
 
 **Estructura General.** 
 
-Testtlink consta de tres partes fundamentales que se nombran a continuación:
-
 * Proyecto de prueba (Test Project),
-* Plan de Pruebas (Test Plan) y el
-* Usuario (User). 
+* Suite de pruebas (Test Suite).
+* Plan de prueba (Test Plan).
+* Casos de prueba (Test Case).
+* Build.
+* Usuario y roles (User). 
 
-Los otros datos son relaciones o atributos de las partes mencionadas lineas arriba.
+   ![Getting Started](./images/24.png)
+
+Testlink proyectos agiles
+
+   ![Getting Started](./images/25.png) 
 
 #### [Ir a Contenido](#content-id)
 
