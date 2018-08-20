@@ -4,11 +4,18 @@
     1.2 [Creando Proyecto de Prueba](#prop-id)  
     1.3 [Creando Plan de Prueba](#plan-id)  
     1.4 [Creando Builds](#builds-id)    
-    1.5 [Creando TestSuite](#testsuite-id)
+    1.5 [Creando TestSuite](#testsuite-id)  
+    1.6 [Creando TestCase](#testcase-id)    
+    1.7 [Asignación de TestCase a Test Plan](#testplancase-id)  
+    1.8 [Crear usuarios y asignar roles](#useroles-id)
 
     
 # <a name="testlink-id"></a>1. TestLink
-Testlink es una herramienta gratuita que nos permite gestionar y crear casos de pruebas, estos se organizan en planes de prueba. Los planes de prueba con los casos de prueba asignados, permite a los miembros del equipo ejecutar test case y registrar los resultados dinámicamente, también podemos generar informes eligiendo los parámetros, esta herramienta hace posible que se mantenga una trazabilidad con los requerimientos, así como priorizar y asignar tareas.
+Testlink es una herramienta gratuita que nos permite gestionar y crear casos de pruebas, estos se organizan en planes de prueba. Los planes de prueba con los casos de prueba asignados, permite a los miembros del equipo ejecutar test case y registrar los resultados dinámicamente, también podemos generar informes eligiendo los parámetros, esta herramienta hace posible que se mantenga una trazabilidad con los requerimientos, así como priorizar y asignar tareas.  
+    ![Getting Started](./images/24.png)
+
+Testlink proyectos agiles
+    ![Getting Started](./images/25.png) 
 
 TestLink es una herramienta que nos permite:
 
@@ -23,7 +30,7 @@ TestLink es una herramienta que nos permite:
 * Generar distintos tipos de reportes: listados de pruebas, requerimientos, resultados por tester, por tipo de prioridad, por importancia, entre otros reportes que hablaremos mas a detalles en las publicaciones siguientes.
 * Agregar campos personalizados
 
-Estructura General. 
+**Estructura General.** 
 
 Testtlink consta de tres partes fundamentales que se nombran a continuación:
 
@@ -32,6 +39,8 @@ Testtlink consta de tres partes fundamentales que se nombran a continuación:
 * Usuario (User). 
 
 Los otros datos son relaciones o atributos de las partes mencionadas lineas arriba.
+
+#### [Ir a Contenido](#content-id)
 
 ## <a name="inst-id"></a>1.1 Instalación
 
@@ -135,5 +144,62 @@ Haga clic en el botón `create`.
     * Haga clic en el botón guardar para guardar los detalles de prueba-suite.
 
     ![Getting Started](./images/14.png)
+
+#### [Ir a Contenido](#content-id)
+
+## <a name="testcase-id"></a>1.6 Creando Test Case
+`TestCase` contiene una secuencia de pasos de prueba para probar un escenario específico con un resultado esperado. Los siguientes pasos explicarán cómo crear un caso de prueba junto con los pasos de prueba.
+
+* Haga clic en la carpeta de la suite de pruebas en el lado izquierdo del panel debajo de una estructura de árbol de carpetas.
+
+    ![Getting Started](./images/15.png)
+
+* Haz clic en el icono de configuración ![Getting Started](./images/12.png) en el panel lateral derecho. La lista de operaciones de casos de prueba se mostrará en el panel lateral derecho
+
+    ![Getting Started](./images/16.png)
+
+* Se abrirá una nueva ventana, para crear casos de prueba, haga clic en crear un botón en las operaciones de prueba.
+
+    ![Getting Started](./images/17.png)
+
+* Ingrese los detalles en la página de especificaciones de casos de prueba.
+
+    ![Getting Started](./images/18.png)
+
+* Después de ingresar los detalles, haga clic en el botón `create` para guardar los detalles. 
+
+    ![Getting Started](./images/19.png)
+
+ * Haga clic en el botón `Create step` en un caso de prueba. Se abrirá un editor de paso de caso de prueba.
+
+    ![Getting Started](./images/20.png)
+
+* Se abrirá otra ventana en la misma página, en esa ventana debe ingresar los siguientes detalles.
+
+    * Ingrese el paso de acción para su caso de prueba.
+    * Ingrese los detalles sobre la acción de paso
+    * Haga clic en `save` y agregue otra acción de paso o haga clic en `save & exit` si no hay más pasos de prueba para agregar.
+
+    ![Getting Started](./images/21.png)
+
+
+#### [Ir a Contenido](#content-id)
+
+## <a name="testplancase-id"></a>1.7 Asignación de TestCase a Test Plan
+Para que se ejecute el caso de prueba, debe asignarse al plan de prueba. Aquí veremos cómo podemos asignar un caso de prueba al plan de prueba.
+
+*  Haga clic en el icono de configuración ![Getting Started](./images/12.png) del `Test Case`. Mostrará la lista de operaciones.
+
+    ![Getting Started](./images/22.png)
+
+* Se abrirá una nueva ventana, busque su proyecto `DE Test Plan` marque la casilla de verificación y haga clic en el botón `Add`.
+
+    ![Getting Started](./images/23.png)
+
+
+#### [Ir a Contenido](#content-id)
+
+## <a name="useroles-id"></a>1.8 Crear usuarios y asignar roles
+
 
 #### [Ir a Contenido](#content-id)
