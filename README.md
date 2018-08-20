@@ -3,7 +3,7 @@
     1.1 [Instalación](#inst-id)      
     1.2 [Creando Proyecto de Prueba](#prop-id)  
     1.3 [Creando Plan de Prueba](#plan-id)  
-    1.4 [Creando Builds](#builds-id)
+    1.4 [Creando Builds](#builds-id)    
     1.5 [Creando TestSuite](#testsuite-id)
 
     
