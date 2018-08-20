@@ -7,7 +7,9 @@
     1.5 [Creando TestSuite](#testsuite-id)  
     1.6 [Creando TestCase](#testcase-id)    
     1.7 [Asignación de TestCase a Test Plan](#testplancase-id)  
-    1.8 [Crear usuarios y asignar roles](#useroles-id)
+    1.8 [Crear usuarios y asignar roles](#useroles-id)  
+    1.9 [Asignar un caso de prueba a un usuario](#testcaseuse-id)   
+    1.10 [Ejecutar los casos de prueba](#ejetestcaseuse-id)
 
     
 # <a name="testlink-id"></a>1. TestLink
@@ -226,4 +228,64 @@ Testlink proporciona funciones de administración y autorización de usuario.
 
   ![Getting Started](./images/30.png)
 
+* Asignación del rol del plan de prueba al usuario.
+    * Haga clic en la pestaña `Assign Test Plan roles`.
+    * Elija el nombre del proyecto
+    * Seleccione la función de usuario del menú desplegable y da clic en el botón  `Do`
+    * Luego da clic en el botón  `Update`.
+
+  ![Getting Started](./images/31.png)
+
 #### [Ir a Contenido](#content-id)
+---
+
+## <a name="testcaseuse-id"></a>1.9 Asignar un caso de prueba a un usuario
+
+* Desde la página de inicio de Testlink, haga clic en el icono de `Assign Test Case Execution` en la barra de navegación.
+
+  ![Getting Started](./images/32.png)
+
+* Seleccione TestCase.
+  
+  ![Getting Started](./images/33.png)
+
+* Seleccione usuario y asigne el usuario luego debe dar clic en el boton `Save Assignments`
+
+  ![Getting Started](./images/34.png)
+
+#### [Ir a Contenido](#content-id)
+---
+
+## <a name="ejetestcaseuse-id"></a>1.10 Ejecutar los casos de prueba
+
+* Debe iniciar sesión con el usuario al que asigno los test case.
+
+  ![Getting Started](./images/35.png)
+
+* Debe seleccionar el botón de ejecutar Lo dirigirá al Panel de ejecución de prueba.
+
+  ![Getting Started](./images/36.png)
+
+* Elige el caso de prueba que deseas ejecutar desde el panel lateral izquierdo.
+
+  ![Getting Started](./images/37.png)
+
+* Una vez que haya seleccionado los casos de prueba, se abrirá una ventana.
+
+  ![Getting Started](./images/38.png)
+
+* Sigue los siguientes pasos
+
+    * Ingrese las notas relacionadas con el caso de prueba ejecutado
+    * Seleccione su estado
+
+  ![Getting Started](./images/39.png)
+
+*  En la misma página, debe completar detalles similares sobre la ejecución del caso de prueba. Complete los detalles, seleccione el estado emoticon.
+
+  ![Getting Started](./images/40.png)
+
+  ![Getting Started](./images/41.png)
+
+#### [Ir a Contenido](#content-id)
+---
