@@ -3,7 +3,8 @@
     1.1 [Instalación](#inst-id)      
     1.2 [Creando Proyecto de Prueba](#prop-id)  
     1.3 [Creando Plan de Prueba](#plan-id)  
-    1.4 [Creando Builds](#buils-id)
+    1.4 [Creando Builds](#builds-id)
+    1.5 [Creando TestSuite](#testsuite-id)
 
     
 # <a name="testlink-id"></a>1. TestLink
@@ -100,6 +101,23 @@ Un `Build` es una versión específica de un software.
 * Haga clic en `Builds / Releases` en `Test Plan` desde la página de inicio.
 
     ![Getting Started](./images/9.png) 
+
+* En la siguiente ventana, complete todos los detalles necesarios para una versión de software y haga clic en crear para guardar su versión.
+
+    * Ingrese el nombre del título.
+    * Ingrese la descripción sobre la versión del software.
+    * Marque la casilla de verificación para el estado- Activo.
+    * Marque la casilla de verificación para estado - Abrir.
+    * Elige la fecha de lanzamiento.
+Haga clic en el botón `create`.
+
+   ![Getting Started](./images/10.png)
+
+#### [Ir a Contenido](#content-id)
+
+## <a name="testsuite-id"></a>1.5 Creando Test Suite
+`Test Suite` es una colección de casos de prueba que pueden estar probando o validando el mismo componente. Los siguientes pasos le explicarán cómo crear el conjunto de pruebas para su proyecto.
+
 
 
 #### [Ir a Contenido](#content-id)
