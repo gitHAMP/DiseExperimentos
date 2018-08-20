@@ -2,6 +2,7 @@
 1. [TestLink](#testlink-id)  
     1.1 [Instalación](#inst-id)      
     1.2 [Creando Proyecto de Prueba](#prop-id)
+    1.3 [Creando Plan de Prueba](#plan-id)
 
     
 # <a name="testlink-id"></a>1. TestLink
@@ -49,7 +50,7 @@ La descarga de TestLink lo puede realizar de [Descarga](https://sourceforge.net/
     * Introduce la contraseña: admin
 
 
-* En la ventana principal, haga clic en Test Project Management, se abrirá otra ventana.
+* En la ventana principal, haga clic en `Test Project Management`, se abrirá otra ventana.
 
     ![Getting Started](./images/3.png) 
 
@@ -64,3 +65,23 @@ La descarga de TestLink lo puede realizar de [Descarga](https://sourceforge.net/
 Esto creará su proyecto `DE-Test` con éxito.    
     ![Getting Started](./images/2.png) 
 
+## <a name="plan-id"></a>1.3 Creando Plan de Prueba
+
+El plan de prueba contiene la información completa, como el alcance de las pruebas de software, los hitos,los conjuntos de prueba y los casos de prueba.
+
+Video
+[![plan de pruebas](./images/5.jpg)](https://youtu.be/Hy_zqwJiR5U)
+
+Para mas información revisar el siguiente enlace [plan de pruebas](https://www.guru99.com/what-everybody-ought-to-know-about-test-planing.html)
+
+* Desde la página de inicio, haga clic en `Test Plan Management` desde la página de inicio.
+
+    ![Getting Started](./images/6.png) 
+
+* Se abrirá otra página, en la parte inferior de la página, haga clic en el botón `create`.
+
+    ![Getting Started](./images/7.png) 
+
+* Complete toda la información necesaria, como nombre, descripción, crear desde el plan de prueba existente, etc. en la ventana abierta, y haga clic el botón `create`.
+
+    ![Getting Started](./images/8.png) 
