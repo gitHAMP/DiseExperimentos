@@ -43,7 +43,10 @@ TestLink en proyectos agiles
 
    ![Getting Started](./images/25.png) 
 
+Revise  [Historias de Usuario y Criterios de Aceptación](https://www.youtube.com/watch?v=AwdF8e1DeTk) y [Definición de historias de usuario y criterios de aceptación (AC)](https://descubriendoagile.wordpress.com/2016/03/22/248/).
+
 #### [Ir a Contenido](#content-id)
+----
 
 ## <a name="inst-id"></a>1.1 Instalación
 
