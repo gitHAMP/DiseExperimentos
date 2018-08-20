@@ -37,7 +37,7 @@ TestLink es una herramienta que nos permite:
 
    ![Getting Started](./images/24.png)
 
-Testlink proyectos agiles
+TestLink en proyectos agiles
 
    ![Getting Started](./images/25.png) 
 
