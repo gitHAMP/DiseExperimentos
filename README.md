@@ -118,6 +118,22 @@ Haga clic en el botón `create`.
 ## <a name="testsuite-id"></a>1.5 Creando Test Suite
 `Test Suite` es una colección de casos de prueba que pueden estar probando o validando el mismo componente. Los siguientes pasos le explicarán cómo crear el conjunto de pruebas para su proyecto.
 
+* Haga clic en la opción `Test Specification` desde la página de inicio.
 
+    ![Getting Started](./images/11.png)
+
+* En el lado derecho del panel, haz clic en el icono de configuración ![Getting Started](./images/12.png). Mostrará una serie de operaciones de prueba.
+
+* Haga clic en la pestaña `create` para el conjunto de pruebas.
+
+    ![Getting Started](./images/13.png)
+
+* Complete todos los detalles para el conjunto de pruebas y haga clic en en el botón  `save`.
+
+    * Ingrese el nombre del conjunto de prueba.
+    * Ingrese los detalles sobre su suite de prueba.
+    * Haga clic en el botón guardar para guardar los detalles de prueba-suite.
+
+    ![Getting Started](./images/14.png)
 
 #### [Ir a Contenido](#content-id)
