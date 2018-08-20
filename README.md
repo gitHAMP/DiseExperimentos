@@ -16,7 +16,8 @@ Testlink es una herramienta gratuita que nos permite gestionar y crear casos de 
    ![Getting Started](./images/24.png)
 
 Testlink proyectos agiles
-    ![Getting Started](./images/25.png) 
+
+   ![Getting Started](./images/25.png) 
 
 TestLink es una herramienta que nos permite:
 
