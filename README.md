@@ -1,7 +1,7 @@
 # <a name="content-id"></a> Contenido   
 1. [TestLink](#testlink-id)  
     1.1 [Instalación](#inst-id)      
-    1.2 [Creando Proyecto de Prueba](#prop-id)
+    1.2 [Creando Proyecto de Prueba](#prop-id)  
     1.3 [Creando Plan de Prueba](#plan-id)
 
     
