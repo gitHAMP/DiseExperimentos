@@ -2,7 +2,8 @@
 1. [TestLink](#testlink-id)  
     1.1 [Instalación](#inst-id)      
     1.2 [Creando Proyecto de Prueba](#prop-id)  
-    1.3 [Creando Plan de Prueba](#plan-id)
+    1.3 [Creando Plan de Prueba](#plan-id)  
+    1.4 [Creando Builds](#buils-id)
 
     
 # <a name="testlink-id"></a>1. TestLink
@@ -74,6 +75,7 @@ Esto creará su proyecto `DE-Test` con éxito.
 El plan de prueba contiene la información completa, como el alcance de las pruebas de software, los hitos,los conjuntos de prueba y los casos de prueba.
 
 Video
+
 [![plan de pruebas](./images/5.jpg)](https://youtu.be/Hy_zqwJiR5U)
 
 Para mas información revisar el siguiente enlace [plan de pruebas](https://www.guru99.com/what-everybody-ought-to-know-about-test-planing.html)
@@ -89,5 +91,15 @@ Para mas información revisar el siguiente enlace [plan de pruebas](https://www.
 * Complete toda la información necesaria, como nombre, descripción, crear desde el plan de prueba existente, etc. en la ventana abierta, y haga clic el botón `create`.
 
     ![Getting Started](./images/8.png) 
+
+#### [Ir a Contenido](#content-id)
+
+## <a name="builds-id"></a>1.4 Creando Builds
+Un `Build` es una versión específica de un software.
+
+* Haga clic en `Builds / Releases` en `Test Plan` desde la página de inicio.
+
+    ![Getting Started](./images/9.png) 
+
 
 #### [Ir a Contenido](#content-id)
