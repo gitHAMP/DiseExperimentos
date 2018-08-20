@@ -41,3 +41,26 @@ Para instalar TestLink, revise el siguiente video para ver los pasos [Instalaci�
 La descarga de TestLink lo puede realizar de [Descarga](https://sourceforge.net/projects/testlink/). 
 
 ## <a name="prop-id"></a>1.2 Creando Proyecto de Prueba
+
+* Abra la página de inicio de Testlink e ingrese los detalles de inicio de sesión.          
+        `http://localhost:8008/testlink/login.php`
+
+    * Ingrese el ID de usuario: admin
+    * Introduce la contraseña: admin
+
+
+* En la ventana principal, haga clic en Test Project Management, se abrirá otra ventana.
+
+    ![Getting Started](./images/3.png) 
+
+* Haz clic en la pestaña `create` para crear un nuevo proyecto.
+    
+    ![Getting Started](./images/4.png)     
+
+* Ingrese todos los campos requeridos en la ventana como una categoría para un proyecto de prueba, nombre del proyecto, prefijo, descripción, etc. Después de completar todos los detalles necesarios, haga clic en la pestaña `create` al final de la ventana.
+
+    ![Getting Started](./images/1.png) 
+
+Esto creará su proyecto `DE-Test` con éxito.    
+    ![Getting Started](./images/2.png) 
+
