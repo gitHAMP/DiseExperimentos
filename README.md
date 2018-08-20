@@ -41,6 +41,8 @@ Para instalar TestLink, revise el siguiente video para ver los pasos [Instalaci�
 
 La descarga de TestLink lo puede realizar de [Descarga](https://sourceforge.net/projects/testlink/). 
 
+#### [Ir a Contenido](#content-id)
+
 ## <a name="prop-id"></a>1.2 Creando Proyecto de Prueba
 
 * Abra la página de inicio de Testlink e ingrese los detalles de inicio de sesión.          
@@ -65,6 +67,8 @@ La descarga de TestLink lo puede realizar de [Descarga](https://sourceforge.net/
 Esto creará su proyecto `DE-Test` con éxito.    
     ![Getting Started](./images/2.png) 
 
+#### [Ir a Contenido](#content-id)
+
 ## <a name="plan-id"></a>1.3 Creando Plan de Prueba
 
 El plan de prueba contiene la información completa, como el alcance de las pruebas de software, los hitos,los conjuntos de prueba y los casos de prueba.
@@ -85,3 +89,5 @@ Para mas información revisar el siguiente enlace [plan de pruebas](https://www.
 * Complete toda la información necesaria, como nombre, descripción, crear desde el plan de prueba existente, etc. en la ventana abierta, y haga clic el botón `create`.
 
     ![Getting Started](./images/8.png) 
+
+#### [Ir a Contenido](#content-id)
